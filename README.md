@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:14B8A6&height=200&section=header&text=Kunal%20Waghray&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Rails%20%2B%20TypeScript%20%C2%B7%20India&descSize=18&descAlignY=60" width="100%" alt="banner"/> <a href="https://github.com/kwaghray"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Building+reliable%2C+performant+web+apps;Ruby+on+Rails+%7C+JavaScript+%7C+TypeScript;Clean+architecture+%E2%9D%A4%EF%B8%8F+Accessible+%2B+maintainable+code;Shipping+features+end-to-end%2C+product+to+deploy" alt="Typing SVG" /> </a> <img src="https://komarev.com/ghpvc/?username=kunalwaghray&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" /> &nbsp; <img src="https://img.shields.io/badge/Open%20to-Collaboration-14B8A6?style=flat" alt="open to collab" /> </div>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect with me
 <div align="center">
