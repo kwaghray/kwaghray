@@ -76,18 +76,18 @@ Hi! I'm Kunal Waghray — a full-stack developer based in Telangana, India, buil
 <img src="https://streak-stats.demolab.com?user=kwaghray&theme=tokyonight&hide_border=true&ring=2E9EF7&fire=14B8A6&currStreakLabel=2E9EF7" alt="streak" />
 
 </div>
+<!--
+---
+ ## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kwaghray&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
 
 ---
-
-//## 🏆 GitHub Trophies
-
-//<div align="center">
-
-//<img src="https://github-profile-trophy.vercel.app/?username=kwaghray&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-//</div>
-
----
+-->
 
 ## 🐍 Contribution Graph
 
