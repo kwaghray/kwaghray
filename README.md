@@ -79,13 +79,13 @@ Hi! I'm Kunal Waghray — a full-stack developer based in Telangana, India, buil
 
 ---
 
-## 🏆 GitHub Trophies
+//## 🏆 GitHub Trophies
 
-<div align="center">
+//<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kwaghray&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+//<img src="https://github-profile-trophy.vercel.app/?username=kwaghray&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
-</div>
+//</div>
 
 ---
 
