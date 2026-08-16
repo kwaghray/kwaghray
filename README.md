@@ -70,31 +70,12 @@ Hi! I'm Kunal Waghray — a full-stack developer based in Telangana, India, buil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kwaghray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=14B8A6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwaghray&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2E9EF7" alt="top langs" />
 
 <img src="https://streak-stats.demolab.com?user=kwaghray&theme=tokyonight&hide_border=true&ring=2E9EF7&fire=14B8A6&currStreakLabel=2E9EF7" alt="streak" />
 
 </div>
 
 ---
- ## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kwaghray&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kwaghray/kwaghray/output/snake.svg" alt="snake animation" />
-
-</div>
 
 ## 🌱 Currently Learning
 
