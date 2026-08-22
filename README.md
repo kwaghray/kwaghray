@@ -84,7 +84,7 @@ kunal = {
   exploring:  ["Performance profiling", "Accessibility (a11y) at scale", "CI/CD pipelines"],
   building:   ["Dashboards", "E-commerce experiences", "Side projects"],
   values:     ["Clean architecture", "Maintainable code", "User-centered design"],
-  motto:      "Remove words until only the point remains — same for code."
+  motto:      "Remove words until only the point remains."
 }
 ```
 
